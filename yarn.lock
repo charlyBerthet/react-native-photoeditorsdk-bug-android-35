@@ -5568,6 +5568,23 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-native-image-picker@^8.2.1:
+  version "8.2.1"
+  resolved "https://registry.yarnpkg.com/react-native-image-picker/-/react-native-image-picker-8.2.1.tgz#1ac7826563cbaa5d5298d9f2acc53c69805e5393"
+  integrity sha512-FBeGYJGFDjMdGCcyubDJgBAPCQ4L1D3hwLXyUU91jY9ahOZMTbluceVvRmrEKqnDPFJ0gF1NVhJ0nr1nROFLdg==
+
+react-native-imglysdk@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-imglysdk/-/react-native-imglysdk-3.3.0.tgz#6df0bbe492afd1402a32a31c0d4570c94beac18e"
+  integrity sha512-PG4Ox9OxV+JTgRw4tkD5eQ7un8OspPOaQmT0m+AI7zc0tmHfkD5JbWTWPzbcaopYNrn9mpJSiWDhSHN+8NNVxA==
+
+react-native-photoeditorsdk@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-photoeditorsdk/-/react-native-photoeditorsdk-3.3.0.tgz#b3fb9eeedc89ff711bec0a490d2e720232ed4505"
+  integrity sha512-JugvoF4AZwoiosyEf35QL2jzLwTZ2nSrNRYZ5gUuf4BrHuwMpswm/zc9hOlS9ya85QZEB+/3j02aNYwL1jVDkg==
+  dependencies:
+    react-native-imglysdk "3.3.0"
+
 react-native@0.73.9:
   version "0.73.9"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.73.9.tgz#a10a2ad16a6087c22d704ae47e29efbd64fcccb3"
