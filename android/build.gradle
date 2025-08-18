@@ -22,7 +22,7 @@ buildscript {
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.0"
         classpath 'com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin:1.8.0-1.0.9' // KSP version is depending on your Kotlin version.
-        classpath 'ly.img.android.sdk:plugin:10.9.0'
+        classpath 'ly.img.android.sdk:plugin:10.10.1'
     }
 }
 
